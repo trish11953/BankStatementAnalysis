@@ -1,6 +1,6 @@
 # Bank Statement Analysis - Cascading AI Coding Challenge
 
-This Jupyter notebook, titled `Casca.ipynb`, is designed for the Cascading AI Coding Challenge. The notebook is comprehensive, involving installation of necessary packages, data preprocessing, analysis, and visualization of bank statements data. It concludes with the integration of GPT-4 for advanced data analysis.
+This Jupyter notebook is designed for the Cascading AI Coding Challenge. The notebook is comprehensive, involving installation of necessary packages, data preprocessing, analysis, and visualization of bank statements data. It concludes with the integration of GPT-4 for advanced data analysis.
 
 ## Installation
 
@@ -26,7 +26,7 @@ pip install fuzzywuzzy plotly
 
 **Monthly Analysis**: The notebook calculates the monthly total of credits and debits and the average monthly balance for each bank statement.
 
-**Data Visualization**: Utilizes plotly for creating interactive bar and line charts to represent financial data visually.
+**Data Visualization**: Utilizes plotly for creating interactive bar and line charts to represent financial data visually. (Visualizations can be seen when you run the Jupyter Notebook. Screenshots are in the screenshots folder)
 
 **Transaction Analysis**: Sorts and analyzes the top 10 debit and credit transactions for each bank. It employs fuzzy matching to categorize transactions and generates pie charts for a visual summary.
 
